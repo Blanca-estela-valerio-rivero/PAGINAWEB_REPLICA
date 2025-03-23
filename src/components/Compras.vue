@@ -1,3 +1,4 @@
+<script setup></script>
 <template>
 <!-- Inicio de la tabla principal -->
       <br>
@@ -52,3 +53,4 @@
 
 
 </template>
+<style scoped></style>

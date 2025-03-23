@@ -1,3 +1,5 @@
+
+<style scoped></style>
 <template>
     <!-- Inicio de la barra de navegación -->
   <nav class="navbar navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
@@ -63,3 +65,4 @@
   </nav>
   <!-- Fin de la barra de navegación -->
 </template>
+<style scoped></style>

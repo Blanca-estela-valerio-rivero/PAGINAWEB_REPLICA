@@ -1,3 +1,5 @@
+
+<script setup></script>
 <template>
 <!-- Inicio del col-md-6 para la lista de Videojuegos-->
 <div class="col-md-6">
@@ -113,3 +115,4 @@
   <!-- Fin del row principal -->
 
 </template>
+<style scoped></style>

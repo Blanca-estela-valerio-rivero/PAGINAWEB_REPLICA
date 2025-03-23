@@ -4,11 +4,15 @@ import Carrusel from './components/Carrusel.vue';
 import BarraNavegacion from './components/BarraNavegacion.vue';
 import Compras from './components/Compras.vue';
 import ListaVideoJ from './ListaVideoJ.vue';
+import Descripcion from './components/Descripcion.vue';
 </script>
 
 <template>
   <div>
     <BarraNavegacion/>
+  </div>
+  <div>
+    <Descripcion/>
   </div>
   <div>
     <Carrusel/>
