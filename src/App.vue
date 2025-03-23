@@ -2,9 +2,8 @@
 
 import Carrusel from './components/Carrusel.vue';
 import BarraNavegacion from './components/BarraNavegacion.vue';
-import Compras from './components/Compras.vue';
-import ListaVideoJ from './ListaVideoJ.vue';
 import Descripcion from './components/Descripcion.vue';
+import Piedepagina from './components/Piedepagina.vue';
 </script>
 
 <template>
@@ -18,10 +17,7 @@ import Descripcion from './components/Descripcion.vue';
     <Carrusel/>
   </div>
   <div>
-    <ListaVideoJ/>
-  </div>
-  <div>
-    <Compras/>
+    <Piedepagina/>
   </div>
   
   <HelloWorld msg="Vite + Vue" />
